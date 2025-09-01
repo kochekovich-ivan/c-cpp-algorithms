@@ -6,8 +6,7 @@ It contains study notes, solved exercises, and small projects written in modern 
 ---
 
 ## Structure
-- `notes/` — summaries on advanced C++ topics (STL, smart pointers, templates, multithreading, etc.)
-- `exercises/` — weekly practice problems (ICPC/LeetCode/Codeforces style)
+- `exercises/` — weekly practice problems
 - `projects/` — mini-projects applying algorithms in practice
 
 ---
