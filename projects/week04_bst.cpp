@@ -123,14 +123,14 @@ public:
             cout << "there is no " << x << " in the tree" << endl;
     }
 
-    std::optional<int> min() {
+    optional<int> min() {
         if (isEmpty()) return std::nullopt;
         Node* ptr = root;
         while (ptr->left != nullptr) ptr = ptr->left;
         return ptr->data;
     }
 
-    std::optional<int> max() {
+    optional<int> max() {
         if (isEmpty()) return std::nullopt;
         Node* ptr = root;
         while (ptr->right != nullptr) ptr = ptr->right;
