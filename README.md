@@ -1,7 +1,6 @@
-# C++ Algorithms
+# C/C++ Algorithms
 
-This repository documents my progress in **C++ algorithms, data structures, and competitive programming**.  
-It contains study notes, solved exercises, and small projects written in modern **C++17/20**.
+This repository documents my progress in **C/C++ algorithms, data structures, and competitive programming**.  
 
 ---
 
@@ -12,5 +11,5 @@ It contains study notes, solved exercises, and small projects written in modern 
 ---
 
 ## Goals
-- Master modern C++ for algorithms and system-level programming
+- Master modern C/C++ for algorithms and system-level programming
 - Build a portfolio of competitive programming and applied algorithm projects
